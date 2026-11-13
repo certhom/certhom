@@ -1,0 +1,8 @@
+{
+  "name": "Sweet Spot — Wheel of Life & Mood Reflection",
+  "description": "Sweet Spot helps you map your Wheel of Life in a real-time interactive radar chart, check in with daily randomized reflection questions, track mood statistics across week, month, and year, and receive tailored mindfulness and goal tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
